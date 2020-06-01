@@ -2,10 +2,7 @@
 
 namespace alexeevdv\Sms\Contract;
 
-/**
- * Sent message ID that is returned by provider
- */
-interface MessageId
+interface PhoneNumber
 {
     public function __toString(): string;
 }
