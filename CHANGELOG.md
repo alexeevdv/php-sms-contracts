@@ -1,6 +1,10 @@
 Under development
 -----------------
 
+0.2.0 (2020-06-01)
+-----------------
+- [Feature] Drop PHP 7.0 support (alexeevdv)
+
 0.1.0 (2020-06-01)
 -----------------
 - [Feature] Drop PHP 5.6 support (alexeevdv)
