@@ -1,0 +1,19 @@
+{
+  "name": "alexeevdv/php-sms-contracts",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry Alekseev",
+      "homepage": "https://alexeevdv.ru/",
+      "email": "mail@alexeevdv.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "alexeevdv\\Sms\\Contract\\": "src"
+    }
+  },
+  "require": {
+    "php": "^5.3|^7.0"
+  }
+}
